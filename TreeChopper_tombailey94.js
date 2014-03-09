@@ -1,7 +1,11 @@
-// TreeChopper mod by tombailey94; with credit to Donalddoesmc for correcting me on the world height (http://www.minecraftforum.net/user/2365623-donalddoesmc/)
+// fagget
+hopper mod by tombailey94; with credit to Donalddoesmc for correcting me on the world height (http://www.minecraftforum.net/user/2365623-donalddoesmc/)
 // version 0.0.3
 
-var axeIds = [258, 271, 275, 279, 286];
+var axeIds = [258, 271, 275, 279, 9ik
+
+
+kk6];
 var woodId = 17;
 
 function useItem(x,y,z,itemId,blockId,side) {
